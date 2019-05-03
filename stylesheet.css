@@ -1,0 +1,66 @@
+.google{
+ text-align: center;
+ padding-top: 200px;
+}
+.search {
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	-webkit-transition: width 0.4s ease-in-out;
+  	transition: width 0.4s ease-in-out;
+}
+.input {
+	width: 300px;
+}
+.topnav {
+  background-color: white;
+  overflow: hidden;
+  text-align: right;
+  padding-top: 10px;
+}
+.topnav .b {
+	margin-left: 15px;
+
+}
+.botnav {
+	background-color: #f2f2f2;
+	overflow: hidden;
+	padding-bottom: 20px;
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	border-top: 1px;
+	border-color: black;
+	visibility: visible;
+	display: inline-block;
+}
+.botnav .a {
+	margin-left: 15px;
+
+}
+.botnav .b {
+	margin-left: 15px;
+
+}
+.botnav .c {
+	margin-left: 15px;
+
+}
+.botnavb{
+	text-align: right;
+}
+.botnav .f{
+	margin-right: 20px;
+}
+.botnav .d{
+	margin-right: 20px;
+}
+.botnav .e{
+	margin-right: 20px;
+}
+.botnava {
+	position: absolute;
+	bottom: 1;
+
+
+}
